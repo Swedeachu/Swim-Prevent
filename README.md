@@ -8,7 +8,7 @@ Prevents double clicking and some forms of auto clicking. Also a basic ring 3 an
 If you can bypass this, congratulations. I purposefully kept code simple and non-invasive, never going past ring 3. 
 <br>
 # Log Files
-This program also creats log files in your machines appdata roaming folder. Each log file is named by the unix time stamp swim prevent was started. Log files contain useful information such as USB counts and when swim prevent was closed.
+This program also creates log files in your machines appdata roaming folder. Each log file is named by the unix time stamp swim prevent was started. Log files contain useful information such as USB device counts and when swim prevent was closed.
 <br>
 # Download
 To download, check the releases tab and follow the instructions. You might need to disable your anti viruses, including windows defender.
